@@ -25,7 +25,27 @@ var CACHED_URLS = [
   'appimages/favicon-96x96.png',
   'appimages/favicon.ico',
   'appimages/favicon.ico',
-  'appimages/favicon.ico'
+  'appimages/favicon.ico',
+  'appimages/ms-70x70.png',
+  'appimages/ms-144x144.png',
+  'appimages/ms-150x150.png',
+  'appimages/ms-310x310.png',
+  'eventsimages/exampleblog01.jpg',
+  'eventsimages/exampleblog02.jpg',
+  'eventsimages/exampleblog03.jpg',
+  'eventsimages/exampleblog04.jpg',
+  'eventsimages/exampleblog05.jpg',
+  'eventsimages/exampleblog06.jpg',
+  'eventsimages/exampleblog07.jpg',
+  'eventsimages/examplework01.jpg',
+  'eventsimages/examplework02.jpg',
+  'eventsimages/examplework03.jpg',
+  'eventsimages/examplework04.jpg',
+  'eventsimages/examplework05.jpg',
+  'eventsimages/examplework06.jpg',
+  'eventsimages/examplework07.jpg',
+  'eventsimages/examplework08.jpg',
+  'eventsimages/examplework09.jpg',
 ];
 
 self.addEventListener('install', function(event) {
