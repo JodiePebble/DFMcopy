@@ -1,4 +1,4 @@
-var BASE_PATH = '//';
+var BASE_PATH = '/DFMcopy/';
 var CACHE_NAME = 'gih-cache-v6';
 var CACHED_URLS = [
     // Our HTML
