@@ -30,6 +30,7 @@ if(eventsContainer){
                 </div>`;
             }).join("\n");
             
+            console.log(eventsContainer)
             eventsContainer.innerHTML = eventsHTML;
         });
 }
